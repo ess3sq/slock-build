@@ -36,3 +36,6 @@ static const int blurRadius=5;
 //#define PIXELATION
 /*Set pixelation radius*/
 static const int pixelSize=0;
+
+/* allow control key to trigger fail on clear */
+static const int controlkeyclear = 0;
