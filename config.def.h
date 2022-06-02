@@ -48,3 +48,6 @@ static const char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
 static const char * font_name = "6x10";
+
+/* time in seconds to cancel lock with mouse movement */
+static const int timetocancel = 4;

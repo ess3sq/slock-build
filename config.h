@@ -49,3 +49,6 @@ static const char * text_color = "#005577";
 
 /* text size (must be a valid size) */
 static const char * font_name = "lucidasans-24";
+
+/* time in seconds to cancel lock with mouse movement */
+static const int timetocancel = 5;
